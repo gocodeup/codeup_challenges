@@ -12,6 +12,12 @@ would translate to:
 hello world
 ```
 
+We've created three separate input files for you to work from, divided into three different tiers. The first file contains sentences using **only** alphabetic characters. The second file uses both alpha and numeric characters. Finally, the third file contains sentences with alpha numeric characters as well as special characters.
+
+Below are the tables you'll need to construct the logic; we've sorted them in a manner that should make them easier to work with. They are also in the file `morse.tables.txt`.
+
+## Alpha Characters
+
     Morse | Alpha
 --------- | ------
  `-`      | T
@@ -41,6 +47,8 @@ hello world
  `...-`   | V
  `....`   | H
 
+## Numeric Characters
+
     Morse | Alpha
 --------- | ------
  `-----`  | 0
@@ -53,6 +61,8 @@ hello world
  `...--`  | 3
  `....-`  | 4
  `.....`  | 5
+
+## Other Characters
 
     Morse | Alpha
 --------- | ------
@@ -72,4 +82,3 @@ hello world
  `..--.-` | _
  `..--..` | ?
  `...-..-` | $
-
