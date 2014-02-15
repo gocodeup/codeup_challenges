@@ -1,0 +1,8 @@
+.-.. .. ..-. . --..-- / - .... . / ..- -. .. ...- . .-. ... . --..-- / .- -. -.. / . ...- . .-. -.-- - .... .. -. --. ..--.. 
+. ...- . .-. -.-- / ...- .- .-. .. .- -... .-.. . / -- ..- ... - / ... - .- .-. - / .-- .. - .... / .- / ...-..- 
+-.. .-. .. -. -.- / -.-- --- ..- .-. / --- ...- .- .-.. - .. -. . --..-- / -.-- --- -.-.-- 
+
+Fatal error: Uncaught exception 'Exception' with message 'No morse code translation found for '''' in /Users/bbatsche/Repos/php_coding_challenge/morse/morse.php:74
+Stack trace:
+#0 {main}
+  thrown in /Users/bbatsche/Repos/php_coding_challenge/morse/morse.php on line 74
