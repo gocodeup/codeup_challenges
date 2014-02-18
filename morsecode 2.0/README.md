@@ -1,5 +1,11 @@
 # Morse Code 2.0
 
+## DO NOT ATTEMPT!
+
+This challenge sounded great on paper, but in practice it would require incredibly tedious or convoluted solutions. Some of you have, in fact, completed this challenge, and that's awesome, but let's be clear: creating & using a lookup array is possibly the only **sensible** solution to translating morse code to regular english. That said, you can find a rather elegant, if overly elaborate, solution to the problem [here](morseTree.php). It's worth pointing out though that even I didn't follow my own rules; I pulled in the original lookup array but used it to construct a parse tree (technically, a [binary heap](http://en.wikipedia.org/wiki/Binary_heap)). If you'd like an explanation for how this script works, come see @bbatsche and I'd be happy to explain it.
+
+## Original Instructions
+
 By now you all have become experts at translating English to morse code, it's time to do the reverse. **But there's a catch!** Unlike the previous challenge, we aren't giving you a PHP array for doing your lookup; in fact you are **not allowed** to use any kind of lookup array. Instead, you must parse the string using nested `if` and/or `switch` statements. Just like before spaces will be replaced with `/` characters, but to make things simpler we will also separate each letter with a space. So for example, the following:
 
 ```
