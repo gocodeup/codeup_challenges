@@ -12,13 +12,23 @@ $cards = ['A', '2', '3', '4', '5', '6', '7', '8', '9', '10', 'J', 'Q', 'K'];
 // card values should be "VALUE SUIT". ex: "7 H"
 // make sure to shuffle the deck before returning it
 function buildDeck($suits, $cards) {
-  // todo
+  $deck = array();
+  foreach ($cards as $key => $value) {
+  	for ($i=0; $i < 4; $i++) { 
+  		array_push($deck, "$suits[$i] $value");
+  	}
+  } 
+  shuffle($deck);
+  return($deck);
 }
 
 // determine if a card is an ace
 // return true for ace, false for anything else
 function cardIsAce($card) {
-  // todo
+  if ($card[2] = 'A') {
+  	return true;
+  }
+  return false;
 }
 
 // determine the value of an individual card (string)
@@ -26,8 +36,20 @@ function cardIsAce($card) {
 // face cards are worth 10
 // numeric cards are worth their value
 function getCardValue($card) {
-  // todo
+  if ($card[2]=='A'){
+  	return 11;
+  }
+  if (!is_numeric($card[2]) {
+  	return 10;
+  }
+  if ($card[2]=='1') {
+  	return 10;
+  }
+  if (is_numeric($card[2]) {
+  	return $card[2];
+  }
 }
+
 
 // get total value for a hand of cards
 // don't forget to factor in aces
@@ -70,9 +92,9 @@ $player = [];
 // todo
 
 // allow player to "(H)it or (S)tay?" till they bust (exceed 21) or stay
-while (todo) {
-  // todo
-}
+// while (todo) {
+//   // todo
+// }
 
 // show the dealer's hand (all cards)
 // todo
