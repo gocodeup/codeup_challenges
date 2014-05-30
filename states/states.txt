@@ -1,0 +1,50 @@
+Alabama, Montgomery, Yellowhammer
+Alaska, Juneau, Willow Ptarmigan
+Arizona, Phoenix, Cactus Wren
+Arkansas, Little Rock, Mockingbird
+California, Sacramento, California Valley Quail
+Colorado, Denver, Lark Bunting
+Connecticut, Hartford, Robin
+Delaware, Dover, Blue Hen Chicken
+Florida, Tallahassee, Mockingbird 
+Georgia, Atlanta, Brown Thrasher
+Hawaii, Honolulu, Nene
+Idaho, Boise, Mountain Bluebird
+Illinois, Springfield, Cardinal
+Indiana, Indianapolis, Cardinal
+Iowa, Des Moines, Eastern Goldfinch
+Kansas, Topeka, Western Meadowlark
+Kentucky, Frankfort, Cardinal
+Louisiana, Baton Rouge, Eastern Brown Pelican
+Maine, Augusta, Chickadee
+Maryland, Annapolis, Baltimore Oriole
+Massachusetts, Boston, Chickadee
+Michigan, Lansing, Robin 
+Minnesota, St. Paul, Common Loon 
+Mississippi, Jackson, Mockingbird
+Missouri, Jefferson City, Bluebird 
+Montana, Helena, Western Meadowlark
+Nebraska, Lincoln, Western Meadowlark
+Nevada, Carson City, Mountain Bluebird
+New Hampshire, Concord, Purple Finch
+New Jersey, Trenton, Eastern Goldfinch
+New Mexico, Santa Fe, Roadrunner
+New York, Albany, Bluebird
+North Carolina, Raleigh, Cardinal
+North Dakota, Bismarck, Western Meadowlark
+Ohio, Columbus, Cardinal
+Oklahoma, Oklahoma City, Scissor-tailed Flycatcher
+Oregon, Salem, Western Meadowlark
+Pennsylvania, Harrisburg, Ruffed Grouse
+Rhode Island, Providence, Rhode Island Red
+South Carolina, Columbia, Great Carolina Wren
+South Dakota, Pierre, Ring-necked Pheasant
+Tennessee, Nashville, Mockingbird
+Texas, Austin, Mockingbird
+Utah, Salt Lake City, Common American Gull 
+Vermont, Montpelier, Hermit Thrush
+Virginia, Richmond, Cardinal
+Washington, Olympia, Willow Goldfinch
+West Virginia, Charleston, Cardinal
+Wisconsin, Madison, Robin
+Wyoming, Cheyennes, Western Meadowlark
