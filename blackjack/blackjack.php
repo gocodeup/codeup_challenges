@@ -70,7 +70,7 @@ $player = [];
 // todo
 
 // allow player to "(H)it or (S)tay?" till they bust (exceed 21) or stay
-while (todo) {
+while (/* todo */) {
   // todo
 }
 
